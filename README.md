@@ -1,4 +1,4 @@
-# brew_app
+# ninja_brew
 
 A new Flutter application.
 

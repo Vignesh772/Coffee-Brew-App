@@ -1,4 +1,4 @@
-package com.vignesh.brew_app
+package com.example.ninja_brew
 
 import io.flutter.embedding.android.FlutterActivity
 
